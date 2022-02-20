@@ -1,0 +1,124 @@
+body {
+  font-family: monospace;
+}
+
+#Title {
+  background-color: #2666CF;
+}
+
+.container-fluids {
+  padding:2% 10%;
+}
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+.nav-link {
+  font-size: 30px;
+}
+
+.Greet {
+  font-size: 60px;
+  font-weight: bold;
+  color: #F5F2E7;
+}
+
+button {
+  margin-top: 5px;
+  margin-right: 12px;
+}
+
+.move {
+  height: 95px;
+  width: 24px;
+}
+
+.icon {
+  margin-left: 100px;
+  height: 320px;
+  width: 320px;
+}
+
+.icon2 {
+  margin-left: 100px;
+  height: 320px;
+  width: 320px;
+}
+
+#Body {
+  background-color: #F5F2E7;
+}
+
+.Why {
+  text-align: center;
+  font-size: 100px;
+  color: #395B64;
+}
+
+hr {
+  margin: 0 2;
+  background-color: #395B64;
+  height: 10px;
+}
+
+.exception {
+  margin: 0 0;
+}
+
+.B {
+  font-size: 50px;
+  margin-left: 140px;
+  color: #395B64;
+}
+
+.word {
+  font-size: 20px;
+  margin-left: 160px;
+  color: #395B64;
+}
+
+#end {
+  background-color: #2C3333;
+}
+
+.farewell {
+  text-align: center;
+  font-size: 30px;
+  color: #F5F2E7;
+}
+
+.spotify {
+  height: 260px;
+  width: 260px;
+}
+
+.soundcloud {
+  height: 260px;
+  width: 260px;
+}
+
+.W {
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 30px;
+  color: Red;
+}
+
+
+.C {
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 30px;
+  color: #395B64;
+}
+
+.author {
+  margin-left: 710px;
+  color: #395B64;
+  background-color: #F5F2E7;
+}
+
+.un {
+  margin-left: 600px;
+}
